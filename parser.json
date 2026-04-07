@@ -1,9 +1,6 @@
 {
-  "lang": "ada",
-  "generate": null,
-  "generate_from_json": null,
   "url": "https://github.com/briot/tree-sitter-ada",
-  "semver": false,
+  "lang": "ada",
   "parser_version": "6b58259a08b1a22ba0247a7ce30be384db618da6",
-  "location": null
+  "semver": false
 }
